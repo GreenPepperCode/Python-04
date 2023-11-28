@@ -1,1 +1,34 @@
-<clients><client><Nom>Dupon</Nom><Pr&#233;nom>Toto</Pr&#233;nom><Sexe>M</Sexe><Solde>3571</Solde></client><client><Nom>Brindacier</Nom><Pr&#233;nom>Fifi</Pr&#233;nom><Sexe>F</Sexe><Solde>6534</Solde></client><client><Nom>Agu</Nom><Pr&#233;nom>Patrick</Pr&#233;nom><Sexe>M</Sexe><Solde>6381</Solde></client><client><Nom>Ramnie</Nom><Pr&#233;nom>Lisa</Pr&#233;nom><Sexe>F</Sexe><Solde>9524</Solde></client></clients>
+<?xml version='1.0' encoding='UTF-8'?>
+<clients>
+  <client>
+    <Nom>Brindacier</Nom>
+    <Prenom>Fifi</Prenom>
+    <Sexe>F</Sexe>
+    <Solde>3573</Solde>
+  </client>
+  <client>
+    <Nom>Dupond</Nom>
+    <Prenom>Toto</Prenom>
+    <Sexe>M</Sexe>
+    <Solde>6537</Solde>
+  </client>
+  <client>
+    <Nom>Smith</Nom>
+    <Prenom>John</Prenom>
+    <Sexe>M</Sexe>
+    <Solde>4500</Solde>
+  </client>
+  <client>
+    <Nom>Johnson</Nom>
+    <Prenom>Alice</Prenom>
+    <Sexe>F</Sexe>
+    <Solde>5200</Solde>
+  </client>
+  <client>
+    <Nom>Williams</Nom>
+    <Prenom>Robert</Prenom>
+    <Sexe>M</Sexe>
+    <Solde>3760</Solde>
+  </client>
+  <client/>
+</clients>
